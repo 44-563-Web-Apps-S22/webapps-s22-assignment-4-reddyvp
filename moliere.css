@@ -1,0 +1,31 @@
+.speech{ 
+    font-family:"Times New Roman"
+    font-size=10px;
+    color:black;  
+}
+.direction{
+    font-family:aries;
+    font-size:10px;
+    color:black;
+    background-color: lightslategray;
+
+}
+.name{
+    font-family:mono;
+    font-size:10px;
+    color:black;
+}
+.direction:hover{
+    background-color: beige;
+    color:blueviolet;
+}
+.Mme{
+    color:green;
+}
+.Elmire{
+    color:brown;
+}
+.Dorine{
+    color:black;
+}
+
