@@ -1,6 +1,6 @@
 .speech{ 
-    font-family:"Times New Roman"
-    font-size=10px;
+    font-family:cursive;
+    font-size:12px;
     color:black;  
 }
 .direction{
@@ -12,7 +12,7 @@
 }
 .name{
     font-family:mono;
-    font-size:10px;
+    font-size:17px;
     color:black;
 }
 .direction:hover{
@@ -28,4 +28,20 @@
 .Dorine{
     color:black;
 }
+table,th,td{
+border-collapse: collapse;
+border:solid black ;
+color:rgb(41, 32, 49);
+text-align: left;
+padding:6px;
+}
+tr:nth-child(even) {
+    background-color: rgb(43, 114, 185);
+    margin: 2px;
+    padding: 2px;
+ }
+ td,tr{
+     width:100px;
+     height: 100%;
+ }
 
