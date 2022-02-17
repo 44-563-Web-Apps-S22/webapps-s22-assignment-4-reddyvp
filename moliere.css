@@ -54,4 +54,40 @@ tr:nth-child(even) {
      width:100px;
      height: 100%;
  }
+ ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: rgb(150, 194, 49);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: rgb(180, 131, 31);
+}
+ul.navbar-horizontal a:hover {
+    background-color: rgb(16, 95, 56);
+    color:rgb(162, 165, 156);
+}
+li.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li.navbar-horizontal li {
+    float:left;
+    background-color: rgb(114, 22, 22);
+}
+li.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: rgb(43, 57, 136);
+}
+li.navbar-horizontal a:hover {
+    background-color: rgb(16, 95, 56);
+    color:rgb(127, 175, 30);
+}
 
