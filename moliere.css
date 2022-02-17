@@ -15,6 +15,9 @@
     font-size:17px;
     color:black;
 }
+.name:hover{
+    text-shadow: 2px 2px 2px yellowgreen;
+}
 .direction:hover{
     background-color: beige;
     color:blueviolet;
@@ -29,7 +32,8 @@
     color:black;
 }
 .Damis{
-    color:aqua
+    color:aqua;
+    
 }
 .Mariane{
     color:dimgray
